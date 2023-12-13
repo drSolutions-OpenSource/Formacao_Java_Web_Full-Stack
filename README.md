@@ -61,7 +61,7 @@ Qualquer desenvolvedor pode contribuir, sendo muito bem-vindo! Caso queira contr
     <a href="https://www.oracle.com/br/java/technologies/downloads/">Java Development Kit</a><br/>
     <a href="https://openjdk.org/">OpenJDK</a><br/>
     <a href="https://www.lncc.br/~rogerio/poo/04a%20-%20Programacao_GUI.pdf">Interfaces Gráficas (GUIs) em Java usando Swing</a><br/>
-    <a href="http://www.java2s.com/Tutorials/Java/Java_Swing/index.htm">Java Swing Tutoria</a><br/>
+    <a href="http://www.java2s.com/Tutorials/Java/Java_Swing/index.htm">Java Swing Tutorial</a><br/>
     <a href="https://github.com/google/gson">Gson</a><br/>
     <a href="https://www.jdevtreinamento.com.br/">JDev Treinamento</a>
 </p>
