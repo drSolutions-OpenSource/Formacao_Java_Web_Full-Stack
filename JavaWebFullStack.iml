@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="poi-5.2.5" level="project" />
+    <orderEntry type="library" name="commons-io-2.6" level="project" />
+    <orderEntry type="library" name="commons-io-2.15.1" level="project" />
+    <orderEntry type="library" name="log4j-core-3.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="log4j-1.2-api-3.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="log4j-api-3.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="log4j-core-3.0.0-alpha1 (2)" level="project" />
+    <orderEntry type="library" name="javax.activation-api-1.2.0" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.3.1" level="project" />
+    <orderEntry type="library" name="log4j-api-3.0.0-alpha1 (2)" level="project" />
+    <orderEntry type="library" name="log4j-core-3.0.0-alpha1 (3)" level="project" />
+    <orderEntry type="library" name="log4j-plugins-3.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="stax2-api-4.2.1" level="project" />
+    <orderEntry type="library" name="woodstox-core-6.5.0" level="project" />
+    <orderEntry type="library" name="gson-2.10.1" level="project" />
+  </component>
+</module>
