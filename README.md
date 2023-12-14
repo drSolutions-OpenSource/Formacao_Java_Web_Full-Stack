@@ -49,7 +49,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 **Quem pode utilizar esse software?**
 
-Qualquer pessoa pode utilizar, basta possuir uma estação de trabalho com o Python.
+Qualquer pessoa pode utilizar, basta possuir uma estação de trabalho com o Java Development Kit instalado.
 
 **Quem pode contribuir?**
 
